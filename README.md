@@ -14,7 +14,7 @@ SKILLS:
 Projects:
 
 Achievements:
-   .12489 Rank in TSEAMCET 
+   .I got 12489 Rank in TSEAMCET 
    .Participated in 'Data visualization using Tablue' workshop
 
 Connect With Me:
